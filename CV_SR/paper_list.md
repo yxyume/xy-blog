@@ -3,7 +3,7 @@ super resolution
 
 #paper list
 ##"Zero-Shot" Super-Resolution using Deep Internal Learning
-github:https://github.com/assafshocher/ZSSR<br>
+git proj:https://github.com/assafshocher/ZSSR<br>
 Paper: https://arxiv.org/abs/1712.06087<br>
 Project page: http://www.wisdom.weizmann.ac.il/~vision/zssr/ (See our results and visual comparison to other methods)<bt>
 ![struction](https://github.com/assafshocher/ZSSR/raw/master/figs/sketch.png)<br>
@@ -16,6 +16,8 @@ Project page: http://www.wisdom.weizmann.ac.il/~vision/zssr/ (See our results an
   year = {2018}
 }<br>
 
-
+##LARGE SCALE GAN TRAINING FOR HIGH FIDELITY NATURAL IMAGE SYNTHESIS (BigGAN) 
+git proj:https://github.com/AaronLeong/BigGAN-pytorch<br>
+paper:https://arxiv.org/abs/1809.11096<br>
 
 
