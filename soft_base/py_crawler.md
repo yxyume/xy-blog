@@ -1,10 +1,13 @@
+python \> crawler
+=
 
-# python crawler
 
-1.related cite   https://www.cnblogs.com/abelsu/p/4540711.html
+# related cite
 
+more info	https://www.cnblogs.com/abelsu/p/4540711.html
+
+```
 #coding=utf-8
-
 #urllib模块提供了读取Web页面数据的接口
 import urllib
 #re模块主要包含了正则表达式
@@ -30,7 +33,7 @@ def getImg(html):
 
 html = getHtml("http://tieba.baidu.com/p/xxxx")
 print getImg(html)
-
+```
 
 
 

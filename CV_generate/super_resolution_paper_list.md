@@ -1,4 +1,4 @@
-super resolution paper list
+Super resolution paper list
 =
 
 # LARGE SCALE GAN TRAINING FOR HIGH FIDELITY NATURAL IMAGE SYNTHESIS (BigGAN) 
@@ -10,7 +10,7 @@ paper:https://arxiv.org/abs/1809.11096<br>
 git proj:https://github.com/assafshocher/ZSSR<br>
 Paper: https://arxiv.org/abs/1712.06087<br>
 Project page: http://www.wisdom.weizmann.ac.il/~vision/zssr/ (See our results and visual comparison to other methods)<bt>
-![struction](https://github.com/assafshocher/ZSSR/raw/master/figs/sketch.png)<br>
+![struction picture](https://github.com/assafshocher/ZSSR/raw/master/figs/sketch.png)<br>
 
 @InProceedings{ZSSR,
   author = {Assaf Shocher, Nadav Cohen, Michal Irani},
@@ -19,6 +19,38 @@ Project page: http://www.wisdom.weizmann.ac.il/~vision/zssr/ (See our results an
   month = {June},
   year = {2018}
 }<br>
+
+
+
+-
+
+Garbage
+-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
