@@ -2,11 +2,11 @@ python \> pyinstaller
 =
 
 # pyinstaller打包python程序    
-more info	https://blog.csdn.net/Roanlys/article/details/80951185<br>
+More Info	https://blog.csdn.net/Roanlys/article/details/80951185<br>
 
 
 1.pyinstaller打包exe文件时，递归太深：RecursionError: maximum recursion depth exceeded。<br>
-第一步：使用pyi-makespec [option] name.py，生成name.spec文件。（这里，我的name.py是control_gui.spec）    \#cite:    https://pyinstaller.readthedocs.io/en/stable/spec-files.html<br>
+第一步：使用pyi-makespec [option] name.py，生成name.spec文件。（这里，我的name.py是control_gui.spec）    \#Cite:    https://pyinstaller.readthedocs.io/en/stable/spec-files.html<br>
 第二步：将以下代码添加到上面生成的spec文件中。<br>
 ```
     import sys
