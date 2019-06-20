@@ -1,4 +1,4 @@
-yxy's blog
+xy's blog
 =
 
 more info ： https://github.com/yxyume/yx-blog<br>
