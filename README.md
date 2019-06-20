@@ -1,7 +1,7 @@
 xy's blog
 =
 
-more info ： https://github.com/yxyume/yx-blog<br>
+more info ： https://github.com/yxyume/xy-blog<br>
 
 A master of computer vision, and also interested in the visual reasoning and NLP<br>
 
